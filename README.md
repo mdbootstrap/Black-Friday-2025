@@ -200,7 +200,9 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💸 (51% OFF) [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_MaciejZimoch) - Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. 51% off on all plans. Code: **`BLF51`** (Valid till 27th Nov, 2024)
 
-#### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**. 
+#### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**.
+
+#### 💰 (35% OFF) [SEOengine.ai](https://seoengine.ai) - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. 35% OFF with code **BLACKFRIDAY** (Nov 17 - Dec 7).
 
 -------------
 
