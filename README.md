@@ -25,15 +25,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🎁Exclusive GitHub Discount Code
-Here is a coupon code for Material Design for Bootstrap. Available only here,  will grant you exclusive $20 discount ON TOP OF already discounted Black Friday offers.
-Just use code `github` on the checkout to claim the discount!
-
--------------
-
 ## 🎁Top Bootstrap UI Kit
 
-#### 💸 [Bootstrap 5 + Material Design](https://mdbootstrap.com/docs/standard/pro/) – Get MDB Advanced Standard + 6 months of any other technology of your choice.
+#### 💸 [Bootstrap 5 + Material Design](https://mdbootstrap.com/docs/standard/pro/)
 
  - 20,000+ premium components
  - 800+ design blocks
