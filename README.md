@@ -1,10 +1,6 @@
 
-# 🖤 _Black Friday 2024_ 🖤
+# 🖤 _Black Friday 2025_ 🖤
 A list of Back November, Black Friday & Cyber Monday promotions and discounts for web developers, programmers and software engineers
-
-## NEWSLETTER 💌
-
-**[Join the newsletter](https://mdbootstrap.com/sale/black/standard/)** to receive best Black Friday offers!
 
 -------------
 
@@ -37,7 +33,7 @@ Just use code `github` on the checkout to claim the discount!
 
 ## 🎁Top Bootstrap UI Kit
 
-#### 💸 [Bootstrap 5 + Material Design](https://mdbootstrap.com/sale/black/standard/) – Get MDB Advanced Standard + 6 months of any other technology of your choice.
+#### 💸 [Bootstrap 5 + Material Design](https://mdbootstrap.com/docs/standard/pro/) – Get MDB Advanced Standard + 6 months of any other technology of your choice.
 
  - 20,000+ premium components
  - 800+ design blocks
@@ -45,7 +41,7 @@ Just use code `github` on the checkout to claim the discount!
  - 100+ plugins 
  - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
  
- [![BlackWeekMDBBlack medium](https://mdb.docs.cognivis.ai/uploads/images/gallery/2024-11/abb.png)](https://mdbootstrap.com/sale/black/standard/)
+ [![BlackWeekMDBBlack medium](https://mdbootstrap.com/docs/standard/pro/assets/ai_bundle_bf2025.webp)](https://mdbootstrap.com/docs/standard/pro/)
 
  
 -------------
