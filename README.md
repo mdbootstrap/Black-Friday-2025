@@ -164,6 +164,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ### AI
 
+#### 💸 (30% OFF) [10LevelUp](https://10levelup.com/) - Automatically cut viral clips out of your YouTube videos. Perfect to grow your Channel. 30% off the Essential & Pro yearly plan with code **BLACKWEEK** (Expires 9th of december)
+
+
 #### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Code: BLACKFRIDAY = 55% OFF.
 
 #### 💸 (40% OFF) [TypingMind](https://www.typingmind.com) - Advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins. Code: BLACKFRIDAY2024 = 40% OFF.
