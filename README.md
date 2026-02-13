@@ -50,6 +50,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [MHThemes](https://mhthemes.com/themes/?) – Another WordPress goodie: This time a great collection of Themes for WordPress. Code BLACKFRIDAY23 = 40% off
 
+#### 💸 [Nextless.js, React SaaS Boilerplate](https://nextlessjs.com) – NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. 66% OFF: Get access to the 3 databases instead of one for a single license
+
 #### 💸 [BoilerCode](https://www.boilercode.co?ref=mdbootstrap) – Catalog of SaaS boilerplates to help you ship your next product super fast. Currently, it has boilerplates for NextJs SaaS, React, and Chrome Extension. Code: 50FRIDAY = 50% off
 
 #### 💸 [Shipixen](https://shipixen.com?ref=black_friday_deals_by_maciejZimoch) - Make customized Next.js boilerplates & deploy to Vercel with a click. 50% on yearly plans with Discount code **`BF2024`** (Valid till 26th Nov)
