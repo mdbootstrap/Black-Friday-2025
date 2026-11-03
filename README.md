@@ -192,6 +192,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**. 
 
+#### 💰 (20% OFF for 12 months) [Layerwise](https://layerwise.app/pricing) - Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. All plans, monthly or annual. Code: **`BLACKFRIDAY2026`**. Redeem by **Dec 2, 2026**.
+
 -------------
 
 ## 🛒Hardware
