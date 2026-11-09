@@ -127,6 +127,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💸 (50% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software. Code: BLACKFRIDAY50 = 50% off
 
 #### 💸 (30% OFF) [Proxyman](https://proxyman.io/) - Debug HTTP/HTTPS Faster with Proxyman. Essential tools for iOS developers. Code: PROXYMAN_BLACKFRIDAY_2024 for 30% off
+#### 💰 (30% OFF for 12 months) [Quotion](https://quotion.co/#pricing) – Turn Apple Notes into blogs, portfolios and portals. Black Friday 2026: all paid plans, monthly or annual, with code **BLACKFRIDAY2026**. Nov 9–Dec 2, 2026.
+
 
 ### VPN
 
