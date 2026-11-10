@@ -293,6 +293,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
+#### 📓 (40% OFF) [FindExams](https://findexams.com/?ref=Black-Friday-2025) - Practice exams for IT and professional certifications (PMP, AWS, and more)
+
 -------------
 
 ## Webdesign
