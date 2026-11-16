@@ -160,6 +160,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% off) [Trickster](https://www.apparentsoft.com/trickster) - (macOS) Recently used and edited files at your fingertips. 50% off.
 
+#### (20% OFF) [Tangrid](https://tangrid.app/pricing?code=BLACK5D) - Native macOS window manager that automatically tiles windows and organizes them into tabbed groups. Black Friday 2026: 20% off lifetime licenses with code **`BLACK5D`**. 1 Mac: ~~$22.99~~ $18.39 USD, one-time purchase with lifetime updates.
+
 -------------
 
 ### AI
