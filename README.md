@@ -293,6 +293,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
+#### 📓 (15% OFF) [8kSec Academy](https://academy.8ksec.io/) - On-demand mobile and AI security training with five certification tracks and hands-on labs. Code: 8KSECBLACKFRIDAY
+
 -------------
 
 ## Webdesign
